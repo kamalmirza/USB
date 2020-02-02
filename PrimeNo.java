@@ -1,5 +1,9 @@
-
-
+public class PrimeNo {
+	public static void main(String args[]){
+		System.out.println("Welcome back to Java");
+	}
+}
+/*
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
@@ -37,3 +41,4 @@ public class PrimeNo {
 			return false;
 	}
 }
+*/

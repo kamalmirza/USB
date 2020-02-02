@@ -1,4 +1,4 @@
-package com.maven.kamal;
+
 
 public class PrimeNo {
 	
